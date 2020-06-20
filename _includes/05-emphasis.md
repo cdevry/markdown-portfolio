@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#Skills
+  * *HTML*
+  * _CSS_
+
+#Platform
+  * **Windows 10**
+  * __XBOX ONE__
+
+_XBOX PROFILE\: **gack420**!_
